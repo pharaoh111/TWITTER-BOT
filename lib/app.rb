@@ -1,4 +1,4 @@
-require 'Twitter'# Appelle la gem Twitter
+require 'twitter'# Appelle la gem Twitter
 require 'dotenv'# Appelle la gem Dotenv
 
 
